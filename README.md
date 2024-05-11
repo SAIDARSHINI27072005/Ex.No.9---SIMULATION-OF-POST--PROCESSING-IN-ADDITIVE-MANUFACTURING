@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/SAIDARSHINI27072005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147474227/cbd1306c-8931-423c-9608-3780df26bb20)
 
-### Name:
-### Register Number:
+### Name: SAI DARSHINI R S
+### Register Number: 212223230178
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
